@@ -1,0 +1,55 @@
+.post {
+    border: 100px solid black;
+    background: white;  
+    width: 450px;
+    margin: auto;
+}
+
+
+.p5{
+    padding: 5px;
+}
+body{
+    background: black;
+    margin: auto;
+}
+.fa-html5{
+    float:left;
+}
+.fa-ellipsis-vertical{
+    float:right;
+}
+.fa-heart{
+    padding-top:10px;
+}
+.fa-comment{
+    padding-top:10px;
+}
+.fa-paper-plane{
+    padding-top: 10px;
+}
+.fa-bookmark{
+    float:right;
+    padding-top: 10px;
+}
+.header1{
+    float:left;
+}
+.post-header{
+    background: white;
+    
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:none;
+  /* width: 100%; */
+
+  
+   
+    
+}
+
+.post-footer p{
+}
